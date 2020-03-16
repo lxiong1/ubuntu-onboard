@@ -23,4 +23,5 @@ sudo apt update
 apt-cache policy docker-ce
 yes | sudo apt install docker-ce
 
-sudo apt install tlp tlp-rdw --no-install-recommends
+yes | sudo apt install tlp tlp-rdw --no-install-recommends
+
